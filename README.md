@@ -8,7 +8,31 @@ I build **end-to-end automation systems** using **n8n**, **AI models**, and **ba
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,fastapi,n8n,docker,github,linux,gcp)
+![Skills](https://skillicons.dev/icons?i=python,fastapi,n8n,docker,github,ai,linux)
+
+## 🛠️ Core Skills & Tools
+
+### 🔹 AI & Automation
+- n8n (workflow automation, webhooks, approvals)
+- RAG-based AI applications
+- LLM integration (Groq / LLaMA)
+- Prompt engineering
+
+### 🔹 Backend Development
+- FastAPI (REST APIs, async Python)
+- Python
+
+### 🧠 Vector Databases & RAG
+- Qdrant (vector search, similarity indexing)
+- FAISS (dense vector indexing & retrieval)
+
+### 🔹 Tools & Platforms
+- Git & GitHub
+- Linux / WSL
+- Docker (basic)
+- skill.sh (hands-on coding & practice platform)
+
+
 
 ---
 ## 📊 GitHub Stats

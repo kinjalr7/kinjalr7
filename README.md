@@ -42,3 +42,5 @@ I build **end-to-end automation systems** using **n8n**, **AI models**, and **ba
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalr7&layout=compact&theme=radical)
 
 ![Snake](https://raw.githubusercontent.com/kinjalr7/kinjalr7/output/github-contribution-grid-snake.svg)
+
+🟢 **Last Automated Run:** <!-- LAST_RUN -->

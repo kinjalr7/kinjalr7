@@ -1,1 +1,1 @@
-![BGEN Workflow](./images/blogworkflow.png)
+![BGEN Workflow](./images/BlogWorkflow.png)

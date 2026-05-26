@@ -8,7 +8,7 @@ I build **end-to-end automation systems** using **n8n**, **AI models**, and **ba
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,fastapi,n8n,docker,github,ai,linux)
+![Skills](https://skillicons.dev/icons?i=python,fastapi,docker,github,ai,linux)
 
 ## 🛠️ Core Skills & Tools
 

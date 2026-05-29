@@ -4,7 +4,7 @@
 
 I build **end-to-end automation systems** using **n8n**, **AI models**, and **backend technologies** to eliminate repetitive work and create smart, scalable workflows.
 
-📍 Surat, Gujarat, India  
+ 
 🔗 LinkedIn: [linkedin.com/in/kinjalrathod2908](https://www.linkedin.com/in/kinjalrathod2908/)
 
 ---
